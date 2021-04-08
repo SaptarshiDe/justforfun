@@ -2,7 +2,7 @@
   "name": "justforfun",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SaptarshiDe.github.io/justforfun",
+  "homepage": "https://saptarshid.github.io/justforfun",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
