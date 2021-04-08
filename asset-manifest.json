@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/justforfun/static/css/main.7929d4f6.chunk.css",
+    "main.js": "/justforfun/static/js/main.b74c954b.chunk.js",
+    "main.js.map": "/justforfun/static/js/main.b74c954b.chunk.js.map",
+    "runtime-main.js": "/justforfun/static/js/runtime-main.5ca5ed32.js",
+    "runtime-main.js.map": "/justforfun/static/js/runtime-main.5ca5ed32.js.map",
+    "static/js/2.62f9d64a.chunk.js": "/justforfun/static/js/2.62f9d64a.chunk.js",
+    "static/js/2.62f9d64a.chunk.js.map": "/justforfun/static/js/2.62f9d64a.chunk.js.map",
+    "static/js/3.1610c8f0.chunk.js": "/justforfun/static/js/3.1610c8f0.chunk.js",
+    "static/js/3.1610c8f0.chunk.js.map": "/justforfun/static/js/3.1610c8f0.chunk.js.map",
+    "index.html": "/justforfun/index.html",
+    "static/css/main.7929d4f6.chunk.css.map": "/justforfun/static/css/main.7929d4f6.chunk.css.map",
+    "static/js/2.62f9d64a.chunk.js.LICENSE.txt": "/justforfun/static/js/2.62f9d64a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ca5ed32.js",
+    "static/js/2.62f9d64a.chunk.js",
+    "static/css/main.7929d4f6.chunk.css",
+    "static/js/main.b74c954b.chunk.js"
+  ]
+}
